@@ -2,4 +2,4 @@
 Just another repository
 
 Hi Hi!
-I am new to Git and am learning how to use R.
+I am new to Github and am learning how to use R.
